@@ -503,7 +503,7 @@ int main() {
 #include <random>
 #include <cstdlib>
 
-constexpr double M_PI = 3.14159265358979323846;
+//constexpr double M_PI = 3.14159265358979323846;
 
 using namespace std;
 
